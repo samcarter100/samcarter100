@@ -1,0 +1,57 @@
+
+/* Background col */
+
+.bg-orange {
+  background-color: #ff8c00 !important;
+}
+.bg-red {
+  background-color: #ff3800 !important;
+}
+
+
+/* Icons */
+
+.icon-red {
+    color: #ff3800 !important;
+}
+
+
+
+/* Links */
+
+/* unvisited link */
+a {
+	color: #ff3800 !important;
+}
+
+a:link {
+    color: #ff3800 !important;
+}
+
+/* mouse over link */
+a:hover {
+    color: #ff3800 !important;
+}
+
+/* selected link */
+a:active {
+    color: #ff8c00;
+}
+
+/* logo */
+
+.header__logo {
+	width: 90%;
+	max-width: 400px;
+
+}
+
+.footer__logo {
+	width: 90%;
+	max-width: 200px;
+
+}
+
+.explainer {
+	padding-top: 60px;
+}
